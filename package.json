@@ -1,0 +1,25 @@
+{
+  "name": "testapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js.js",
+  "scripts": {
+    "test": "mocha --recursive",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai-http": "^4.2.1",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "log4js": "^4.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.15.2",
+    "mocha": "^6.0.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "owners": [
+        {
+            "name": "David",
+            "address": "Denmark",
+            "phone": 12345,
+            "email": "david@gmail.com",
+            "ownerId": 12
+        },
+        {
+            "name": "Julie",
+            "address": "NYC",
+            "phone": 12345,
+            "email": "julie@gmail.com",
+            "ownerId": 11
+        }
+    ]
+}
